@@ -6,4 +6,5 @@
 
    **pytest tests/**
 3. To manually run and see output update year in src/fifa.py (line 89).
-Then run **python3 fifa.py.**
+
+   Then run **python3 fifa.py.**
