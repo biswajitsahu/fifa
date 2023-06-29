@@ -1,0 +1,5 @@
+The birthday paradox states that in any group of 26 people there is a 50% chance that two of them share a birthday.
+The World Cup 2022 in Qatar had 32 teams with a squad of 26 players each.
+Scrape this Wikipedia page https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads
+for the birthdays of players and find how many teams out of the 32 have at least 2 players who share the same birthday.
+We're looking for two players within the same team who have the same birthday, the total number of teams where there is at least one such pair of players.
